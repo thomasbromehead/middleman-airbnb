@@ -1,0 +1,28 @@
+- name: copenhagen
+  flat_owner: 'Sebastien'
+  description: 'View of the little siren'
+  image: "copenhagen.jpg"
+- name: shanghai
+  flat_owner: 'Liu'
+  description: 'Top of a skyscraper'
+  image: "shanghai.jpg"
+- name: 'Madrid, Spain'
+  flat_owner: 'Isabella'
+  description: 'Across from the escurial museum'
+  image: "madrid.jpg"
+- name: 'Paris, France'
+  flat_owner: 'Aurélie'
+  description: 'Charming room in Montmartre'
+  image: "paris.jpg"
+- name: 'London, UK'
+  flat_owner: 'Greg'
+  description: 'Views of the Thames and Green Park'
+  image: "london.jpeg"
+- name: 'Lisbon, Portugal'
+  flat_owner: 'Manuela'
+  description: 'Overlooking the Tage'
+  image: "lisbon.jpg"
+- name: 'Brussels, Belgium'
+  flat_owner: 'Fernand'
+  description: 'Right on Grand Place'
+  image: "brussels.jpeg"
